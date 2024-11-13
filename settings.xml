@@ -11,6 +11,7 @@
     <id>unicorns-unicorn-packages</id>
     <activation>
       <activeByDefault>true</activeByDefault>
+    </activation>
     <repositories>
       <repository>
         <id>unicorns-unicorn-packages</id>
