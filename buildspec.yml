@@ -22,5 +22,5 @@ artifacts:
     - appspec.yml
     - scripts/**/*
     - Dockerfile
-    - buildspec_docker.ymlgit add *
+    - buildspec_docker.yml
   discard-paths: no
